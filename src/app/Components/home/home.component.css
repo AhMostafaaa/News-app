@@ -1,0 +1,8 @@
+.news-details {
+    overflow: hidden;
+    height: 350px;
+}
+.news-details img {
+    height: 195px;
+    object-fit: cover;
+}
